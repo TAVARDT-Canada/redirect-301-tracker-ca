@@ -5,7 +5,7 @@
 
 Audits bilingual redirect routing, infinite loop detection, link equity preservation, and latency.
 
-Developed and maintained by the technical search architecture division of **TAVARDT Canada**.
+Developed and maintained by the technical search architecture division of **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python redirect_tracker.py https://company.ca -json
 For full web verification and deep redirect chain inspections:
 
 * **Official Redirect Checker Tool**
-* **TAVARDT Canada Enterprise Portal**
+* **TAVARDT Enterprise Portal**
 
 ***
 
 ## Technical SEO and Site Migration Advisory
 
-For Canadian federal and enterprise platforms aligning with W3C Standards and Canadian Digital Guidelines, contact the specialists at **TAVARDT Canada**.
+For Canadian federal and enterprise platforms aligning with W3C Standards and Canadian Digital Guidelines, contact the specialists at **TAVARDT**.
 
 ***
 
