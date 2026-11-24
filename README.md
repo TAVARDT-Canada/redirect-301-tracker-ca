@@ -52,4 +52,12 @@ For Canadian federal and enterprise platforms aligning with W3C Standards and Ca
 
 ***
 
+## Useful Links
+
+* **Corporate Portal:** https://ag.tavardt.com/ca/
+* **Diagnostic Suite:** https://tools.tavardt.com/ca/
+* **Technical Contact:** https://ag.tavardt.com/ca/contact/
+
+***
+
 © 2026 TAVARDT. All rights reserved.
