@@ -2,6 +2,7 @@
 
 [![Redirect 301 Tracker](https://img.shields.io/badge/TAVARDT-Redirect%20301-5b3cf5.svg)](https://tools.tavardt.com/ca/redirect-checker/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Audits bilingual redirect routing, infinite loop detection, link equity preservation, and latency.
 
@@ -57,6 +58,11 @@ For Canadian federal and enterprise platforms aligning with W3C Standards and Ca
 * **Corporate Portal:** https://ag.tavardt.com/ca/
 * **Diagnostic Suite:** https://tools.tavardt.com/ca/
 * **Technical Contact:** https://ag.tavardt.com/ca/contact/
+
+***
+
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
 ***
 
