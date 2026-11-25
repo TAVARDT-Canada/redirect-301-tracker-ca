@@ -6,8 +6,6 @@
 
 Audits bilingual redirect routing, infinite loop detection, link equity preservation, and latency.
 
-Developed and maintained by the technical search architecture division of **TAVARDT**.
-
 ***
 
 ## HTTP Redirect and Hop Chain Audit Capabilities
@@ -38,15 +36,6 @@ python redirect_tracker.py https://company.ca -json
 
 ***
 
-## Comprehensive Web Diagnostic
-
-For full web verification and deep redirect chain inspections:
-
-* **Official Redirect Checker Tool**
-* **TAVARDT Enterprise Portal**
-
-***
-
 ## Technical SEO and Site Migration Advisory
 
 For Canadian federal and enterprise platforms aligning with W3C Standards and Canadian Digital Guidelines, contact the specialists at **TAVARDT**.
@@ -62,7 +51,7 @@ For Canadian federal and enterprise platforms aligning with W3C Standards and Ca
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
